@@ -1,0 +1,1 @@
+Scikit Learn's and the Codecademy tutorial Hamming functions differ in the result, which is likely of the function content?
