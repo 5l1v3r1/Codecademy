@@ -1,0 +1,39 @@
+Regression
+Regression is used to predict outputs that are continuous. The outputs are quantities that can be flexibly determined based on the inputs of the model rather than being confined to a set of possible labels.
+
+For example:
+
+Predict the height of a potted plant from the amount of rainfall
+Predict salary based on someone’s age and availability of high-speed internet
+Predict a car’s MPG (miles per gallon) based on size and model year
+
+/////
+
+
+Classification
+Classification is used to predict a discrete label. The outputs fall under a finite set of possible outcomes. Many situations have only two possible outcomes. This is called binary classification (True/False, 0 or 1, Hotdog / not Hotdog).
+
+For example:
+
+Predict whether an email is spam or not
+Predict whether it will rain or not
+Predict whether a user is a power user or a casual user
+
+
+/////
+
+
+LINEAR REGRESSION
+Minimizing Loss
+The goal of a linear regression model is to find the slope and intercept pair that minimizes loss on average across all of the data.
+
+The interactive visualization in the browser lets you try to find the line of best fit for a random set of data points:
+
+The slider on the left controls the m (slope)
+The slider on the right controls the b (intercept)
+
+
+//////
+
+
+
